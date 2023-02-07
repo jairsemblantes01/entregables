@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImagenUploadFirebase</string>
+    <string name="title_activity_main">Firebase con Kotlin</string>
+    <string name="subtitle_activity_main">Subir Archivos</string>
+    <string name="all">TODO</string>
+    <string name="upload">SUBIR ARCHIVOS</string>
+</resources>
